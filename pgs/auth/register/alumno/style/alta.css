@@ -1,0 +1,37 @@
+.inputs input {
+    color: white;
+    border: 1px solid rgb(0, 115, 255);
+    border-right: none;
+    border-left: none;
+    padding: 13px;
+    border-top: none;
+    background-color: rgba(23, 98, 113, 0.405);
+    outline: none;
+    transition: 200ms ease-in;
+}
+
+.inputs input:hover {
+    border-top: none;
+    background-color: rgba(0, 137, 149, 0.418);
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid rgb(0, 255, 47);
+    transition: 300ms ease-in;
+}
+.inputs input:focus::before {
+    border-color: red;
+}
+.inputs input::placeholder {
+    color: white;
+    padding-left: 5px;
+    transition: 200ms ease-in;
+}
+.inputs input:hover::placeholder {
+    color: transparent;
+    transition: 200ms ease-in;
+}
+.renglon {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}

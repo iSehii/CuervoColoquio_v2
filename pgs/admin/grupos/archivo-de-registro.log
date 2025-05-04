@@ -1,0 +1,248 @@
+[04-Aug-2023 11:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:30:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:30:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:31:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:32:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:32:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:33:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdCarrera() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:275
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 275
+[04-Aug-2023 11:33:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getIdCarrera() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:33:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getIdCarrera() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:35:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:36:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getIdCarrera() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:36:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getIdCarrera() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:37:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getIdCarrera() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:299
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 299
+[04-Aug-2023 11:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:338
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 338
+[04-Aug-2023 11:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:338
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 338
+[04-Aug-2023 11:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Grupos::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:338
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 338
+[04-Aug-2023 11:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:49:08 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 59
+[04-Aug-2023 11:49:10 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 59
+[04-Aug-2023 11:49:12 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 59
+[04-Aug-2023 11:51:36 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 60
+[04-Aug-2023 11:51:37 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 60
+[04-Aug-2023 11:51:38 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 60
+[04-Aug-2023 11:51:38 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 60
+[04-Aug-2023 11:51:40 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 60
+[04-Aug-2023 11:51:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:54:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 11:54:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[04-Aug-2023 12:19:48 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:19:49 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:20:10 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:20:14 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:20:16 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:20:44 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:21:11 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 12:21:13 America/New_York] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:255
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 255
+[04-Aug-2023 13:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 79
+[04-Aug-2023 15:26:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 7
+[16-Aug-2023 00:21:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php:79
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/grupos/index.php on line 79

@@ -1,0 +1,228 @@
+[13-Jul-2023 17:46:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/usuarios/69/BERENICE.PHP:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/BERENICE.PHP on line 7
+[14-Jul-2023 01:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 62
+[14-Jul-2023 01:46:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:51:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:52:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:54:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:55:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:58:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 01:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 02:06:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 63
+[14-Jul-2023 02:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "UsuarioP" not found in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1028
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1028
+[14-Jul-2023 02:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "UsuarioP" not found in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1028
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1028
+[14-Jul-2023 02:55:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method UsuarioP::getFechaDeNacimiento() in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1228
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1228
+[14-Jul-2023 02:58:14 America/New_York] PHP Parse error:  syntax error, unexpected token ":" in /homepages/36/d964441634/htdocs/usuarios/usuarioP.php on line 109
+[14-Jul-2023 02:58:21 America/New_York] PHP Parse error:  syntax error, unexpected token ":" in /homepages/36/d964441634/htdocs/usuarios/usuarioP.php on line 109
+[14-Jul-2023 04:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method UsuarioP::getGénero() in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1336
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1336
+[14-Jul-2023 15:01:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1159
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1159
+[14-Jul-2023 15:08:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method UsuarioP::getApelldoMaterno() in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1355
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1355
+[14-Jul-2023 15:53:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1177
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1177
+[14-Jul-2023 16:39:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1175
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1175
+[14-Jul-2023 17:03:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1175
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1175
+[14-Jul-2023 17:15:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1175
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1175
+[14-Jul-2023 20:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1175
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1175
+[15-Jul-2023 02:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1175
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1175
+[15-Jul-2023 21:13:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1184
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1184
+[15-Jul-2023 21:40:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1184
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1184
+[15-Jul-2023 22:39:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1198
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1198
+[15-Jul-2023 22:39:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/usuarios/69/index.php:1198
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/usuarios/69/index.php on line 1198
+[17-Aug-2023 04:02:48 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 04:02:50 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:38:07 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:38:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:38:10 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:42:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:43:01 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:43:01 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:43:01 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[17-Aug-2023 23:43:02 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:58:57 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:58:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:58:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 15:57:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php:57
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php on line 57
+[20-Aug-2023 13:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php:57
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php on line 57
+[20-Aug-2023 13:55:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php:57
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php on line 57
+[21-Aug-2023 12:41:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php on line 66
+[21-Aug-2023 13:39:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php on line 66
+[28-Aug-2023 15:09:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php on line 66
+[06-Sep-2023 23:06:25 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:516
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(516): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 516
+[06-Sep-2023 23:06:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id_usuario DESC' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:516
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(516): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/usuarios/profile.php(18): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 516

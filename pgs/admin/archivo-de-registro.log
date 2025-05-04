@@ -1,0 +1,277 @@
+[19-Jul-2023 13:47:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "UsuarioP" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 11
+[19-Jul-2023 13:51:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:51:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[19-Jul-2023 13:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/index.php on line 7
+[24-Jul-2023 19:08:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 63
+[24-Jul-2023 19:09:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 63
+[07-Aug-2023 03:47:57 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 88
+[07-Aug-2023 03:47:59 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 88
+[07-Aug-2023 03:50:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboard::Dash() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:240
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 240
+[07-Aug-2023 03:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboard::Dash() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:240
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 240
+[07-Aug-2023 03:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboard::Dash() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:240
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 240
+[14-Aug-2023 01:32:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:68
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 68
+[14-Aug-2023 17:22:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php:68
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/index.php on line 68
+[17-Aug-2023 06:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'tu_archivo_con_dashboard.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:52
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 52
+[17-Aug-2023 06:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'tu_archivo_con_dashboard.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:52
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 52
+[17-Aug-2023 06:09:35 America/New_York] PHP Fatal error:  Cannot declare class Dashboard, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 101
+[17-Aug-2023 06:09:36 America/New_York] PHP Fatal error:  Cannot declare class Dashboard, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 101
+[17-Aug-2023 06:09:36 America/New_York] PHP Fatal error:  Cannot declare class Dashboard, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 101
+[17-Aug-2023 06:10:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboarsd::connect() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:33
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(55): Dashboarsd->getTables()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 33
+[17-Aug-2023 06:10:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboarsd::connect() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:33
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(55): Dashboarsd->getTables()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 33
+[17-Aug-2023 06:10:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboarsd::connect() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:33
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(55): Dashboarsd->getTables()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 33
+[17-Aug-2023 06:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Dashboarsd::connect() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:33
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(55): Dashboarsd->getTables()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 33
+[17-Aug-2023 06:26:49 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:94
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(94): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(149): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 94
+[17-Aug-2023 06:27:01 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:94
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(94): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(149): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 94
+[17-Aug-2023 06:28:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:86
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(86): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(144): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 86
+[17-Aug-2023 06:41:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:41:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:45:40 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:46:10 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:46:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:46:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:46:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:46:49 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 06:54:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_carrera' in 'where clause' in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:96
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(96): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(148): deleteData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 96
+[17-Aug-2023 07:01:49 America/New_York] PHP Fatal error:  Cannot declare class DB, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[17-Aug-2023 07:09:42 America/New_York] PHP Fatal error:  Cannot declare class DB, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[17-Aug-2023 07:09:42 America/New_York] PHP Fatal error:  Cannot declare class DB, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[17-Aug-2023 07:09:43 America/New_York] PHP Fatal error:  Cannot declare class DB, because the name is already in use in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[17-Aug-2023 07:24:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTotal() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:211
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 211
+[17-Aug-2023 07:24:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTotal() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:211
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 211
+[17-Aug-2023 07:25:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTotal() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:211
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 211
+[20-Aug-2023 02:40:50 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:300
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(300): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(347): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 300
+[20-Aug-2023 02:46:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:302
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(302): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(349): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 302
+[20-Aug-2023 02:46:26 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:302
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(302): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(349): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 302
+[20-Aug-2023 03:34:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:300
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(300): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(347): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 300
+[20-Aug-2023 03:35:39 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:300
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(300): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(347): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 300
+[20-Aug-2023 03:35:57 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:300
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(300): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(347): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 300
+[20-Aug-2023 03:37:24 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:300
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(300): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(347): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 300
+[20-Aug-2023 03:38:06 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:300
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(300): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(347): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 300
+[20-Aug-2023 22:47:14 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:309
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(309): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(356): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 309
+[20-Aug-2023 23:14:01 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:309
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(309): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(356): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 309
+[20-Aug-2023 23:15:54 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:309
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(309): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(356): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 309
+[20-Aug-2023 23:16:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:309
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(309): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(356): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 309
+[20-Aug-2023 23:17:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:309
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(309): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(356): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 309
+[20-Aug-2023 23:19:44 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php:309
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(309): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php(356): updateData()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/tablas.php on line 309

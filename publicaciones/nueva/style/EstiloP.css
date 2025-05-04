@@ -1,0 +1,136 @@
+
+<style>
+.TituloPublicacion {
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.LabelTitulo {
+    font-size: 20px;
+    position: absolute;
+    transition: 0.3s;
+    border-radius: 10px;
+    background-color: white;
+    padding: 5px 10px;
+    transform: translate(15px, 1px);
+    font-weight: bold;
+}
+.TituloPublicacionFoco {
+    font-size: 20px;
+    position: absolute;
+    transition: 0.3s;
+    border-radius: 10px;
+    padding: 5px 10px;
+    animation: FocoTitulo 2s forwards;
+    font-weight: bold;
+}
+@keyframes FocoTitulo {
+    0% {
+        transform: translate(15px, 1px);
+    }
+
+    33% {
+        transform: translate(15px, -30px);
+    }
+
+    66% {
+        transform: translate(0px, -30px);
+    }
+    100% {
+        transform: translate(0px, -30px);
+        font-size: 25px;
+        font-weight: bold;
+    }
+}
+.TituloPublicacion input {
+    padding: 10px 20px;
+    transition: 0.3s;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 2px solid blue;
+    outline: none;
+}
+.TituloPublicacion input:focus {
+    transition: 0.3s;
+    padding-top: 15px;
+    animation: inputTitulo 3s forwards;
+}
+@keyframes inputTitulo {
+    0% {
+    }
+    100% {
+    }
+}
+.ContenidoPublicacion {
+    border-radius: 10px;
+    border: solid 1px blue;
+}
+.CarreraYCuatrimestre {
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.Carrera {
+    padding-right: 2.5%;
+    width: 47.5%;
+}
+.Carrera select {
+    margin-top: 7px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px 10px;
+}
+select {
+    outline: none;
+}
+.Cuatrimestre {
+    padding-left: 2.5%;
+    width: 47.5%;
+}
+.Cuatrimestre select {
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-top: 7px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px 10px;
+}
+.Carrera label {
+    font-size: 20px;
+    transition: 0.3s;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.Cuatrimestre label {
+    font-size: 20px;
+    transition: 0.3s;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.Alta {
+    text-align: center;
+}
+.Alta button {
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 0, 160);
+    color: white;
+    font-weight: bold;
+    margin: 35px;
+    font-size: 25px;
+    transition: 0.3s;
+    padding: 12.5px 22.5px;
+    cursor: pointer;
+}
+.Alta button:hover {
+    background-color: white;
+    color: blue;
+    box-shadow: 0px 0px 5px 0px blue;
+    transition: 0,3s;
+}
+
+</style>

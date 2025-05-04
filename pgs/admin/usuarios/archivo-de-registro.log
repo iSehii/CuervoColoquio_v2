@@ -1,0 +1,32 @@
+[19-Jul-2023 14:17:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php on line 7
+[19-Jul-2023 14:18:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php on line 7
+[19-Jul-2023 14:18:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php on line 7
+[19-Jul-2023 14:25:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php:246
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php on line 246
+[20-Jul-2023 14:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php on line 63
+[22-Jul-2023 01:14:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php:63
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/pgs/admin/usuarios/index.php on line 63
+[24-Jul-2023 21:03:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/usuarios/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/usuarios/index.php on line 66
+[09-Aug-2023 20:23:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/usuarios/index.php:67
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/usuarios/index.php on line 67

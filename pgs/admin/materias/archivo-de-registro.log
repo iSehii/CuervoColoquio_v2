@@ -1,0 +1,105 @@
+[12-Jul-2023 04:11:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:12:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:12:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:13:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:13:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:13:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:14:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:14:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:14:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:15:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:15:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:15:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:15:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5
+[12-Jul-2023 04:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "DB" not found in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:5
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/admin/materias/index.php(4): include_once()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 5

@@ -1,0 +1,231 @@
+[29-Jul-2023 02:10:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:10:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:12:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:12:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:15:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:15:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 02:17:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 9
+[29-Jul-2023 02:17:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 66
+[29-Jul-2023 02:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 66
+[29-Jul-2023 02:18:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 66
+[29-Jul-2023 02:18:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 66
+[29-Jul-2023 02:18:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 66
+[29-Jul-2023 02:19:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 7
+[29-Jul-2023 03:34:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:35:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function crearPublicacion() in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 247
+[29-Jul-2023 03:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function crearPublicacion() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 19
+[29-Jul-2023 03:47:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:41
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(41): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 41
+[29-Jul-2023 03:51:50 America/New_York] PHP Parse error:  syntax error, unexpected variable "$query", expecting ";" or "{" in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 40
+[29-Jul-2023 03:51:52 America/New_York] PHP Parse error:  syntax error, unexpected variable "$query", expecting ";" or "{" in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 40
+[29-Jul-2023 03:51:53 America/New_York] PHP Parse error:  syntax error, unexpected variable "$query", expecting ";" or "{" in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 40
+[29-Jul-2023 03:51:54 America/New_York] PHP Parse error:  syntax error, unexpected variable "$query", expecting ";" or "{" in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 40
+[29-Jul-2023 03:51:55 America/New_York] PHP Parse error:  syntax error, unexpected variable "$query", expecting ";" or "{" in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 40
+[30-Jul-2023 00:07:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Contenido' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:16:50 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_carrera' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:34:21 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Contenido' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:36:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Contenido' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:37:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Contenido' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:37:29 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_carrera' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:38:44 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_carrera' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[30-Jul-2023 04:45:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_carrera' cannot be null in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:47
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(47): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(20): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 47
+[31-Jul-2023 10:21:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:85
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 85
+[04-Aug-2023 18:27:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:85
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 85
+[18-Aug-2023 12:35:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 87
+[18-Aug-2023 12:35:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 87
+[18-Aug-2023 12:50:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php on line 87
+[21-Aug-2023 12:35:19 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:474
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(474): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(24): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 474
+[21-Aug-2023 12:35:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:474
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(474): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/nueva/index.php(24): Publicaciones->crearPublicacion()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 474

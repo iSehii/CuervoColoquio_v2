@@ -1,0 +1,20 @@
+[11-Aug-2023 10:21:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/carreras/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/carreras/index.php on line 7
+[11-Aug-2023 10:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/carreras/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/carreras/index.php on line 7
+[11-Aug-2023 10:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/carreras/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/carreras/index.php on line 7
+[11-Aug-2023 10:22:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/carreras/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/carreras/index.php on line 7
+[11-Aug-2023 10:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/carreras/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/carreras/index.php on line 7

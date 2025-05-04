@@ -1,0 +1,10 @@
+[03-Jul-2023 03:07:53 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'hilda.perkinss@utvtol.edu.mx'' at line 1 in /homepages/36/d964441634/htdocs/public_html/pgs/auth/login/index.php:59
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/login/index.php(59): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/login/index.php on line 59
+[03-Jul-2023 03:12:27 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'hilda.perkinss@utvtol.edu.mx'' at line 1 in /homepages/36/d964441634/htdocs/public_html/pgs/auth/login/index.php:59
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/login/index.php(59): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/login/index.php on line 59

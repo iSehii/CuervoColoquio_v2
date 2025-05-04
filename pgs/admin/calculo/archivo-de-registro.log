@@ -1,0 +1,8 @@
+[08-Aug-2023 10:40:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/calculo/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/calculo/index.php on line 69
+[08-Aug-2023 10:53:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/calculo/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/calculo/index.php on line 69

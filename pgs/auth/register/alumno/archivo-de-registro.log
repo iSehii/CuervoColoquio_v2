@@ -1,0 +1,129 @@
+[01-Jul-2023 02:27:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.Carrera' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:196
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(196): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 196
+[01-Jul-2023 02:32:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:201
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 201
+[01-Jul-2023 02:35:00 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.Carrera' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:196
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(196): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 196
+[01-Jul-2023 02:35:01 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.Carrera' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:196
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(196): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 196
+[01-Jul-2023 02:35:52 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.Carrera' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:196
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(196): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 196
+[01-Jul-2023 02:35:54 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.Carrera' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:196
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(196): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 196
+[01-Jul-2023 02:36:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.Carrera' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:196
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(196): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 196
+[02-Jul-2023 15:02:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'al222211429@gmail.com' for key 'usuario.Correo_UNIQUE' in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:36
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(36): mysqli_stmt_execute()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 36
+[02-Jul-2023 15:52:46 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'al222211429@gmail.com' for key 'usuario.Correo_UNIQUE' in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:36
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(36): mysqli_stmt_execute()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 36
+[02-Jul-2023 15:53:01 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'al222211429@gmail.com' for key 'usuario.Correo_UNIQUE' in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:36
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(36): mysqli_stmt_execute()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 36
+[02-Jul-2023 15:53:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'al222211429@gmail.com' for key 'usuario.Correo_UNIQUE' in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:36
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(36): mysqli_stmt_execute()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 36
+[02-Jul-2023 15:53:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'al222211429@gmail.com' for key 'usuario.Correo_UNIQUE' in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:36
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(36): mysqli_stmt_execute()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 36
+[02-Jul-2023 16:40:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1 in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:28
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(28): mysqli_query()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 28
+[02-Jul-2023 19:09:54 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:546
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(546): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 546
+[02-Jul-2023 19:14:07 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbs11162154.usuario_grupo' doesn't exist in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:569
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(569): mysqli_prepare()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 569
+[02-Jul-2023 19:21:43 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:644
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(644): mysqli_stmt_close()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 644
+[14-Aug-2023 02:27:46 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[14-Aug-2023 02:31:22 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[14-Aug-2023 02:33:33 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[17-Aug-2023 16:46:17 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[17-Aug-2023 18:53:55 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[17-Aug-2023 18:58:39 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[17-Aug-2023 19:02:52 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[17-Aug-2023 19:11:51 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:596
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(596): mysqli_stmt_bind_param()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 596
+[17-Aug-2023 23:00:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:590
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(590): mysqli_prepare()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 590
+[17-Aug-2023 23:31:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php:590
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php(590): mysqli_prepare()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/auth/register/alumno/index.php on line 590

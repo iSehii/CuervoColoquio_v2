@@ -1,0 +1,62 @@
+[03-Aug-2023 17:39:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 7
+[03-Aug-2023 17:58:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:11:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:12:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 20:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Carreras::getTotal() in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 247
+[03-Aug-2023 23:48:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 69
+[04-Aug-2023 03:15:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'carrera.PRIMARY' in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:46
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(46): PDOStatement->execute()
+#1 /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php(16): Carreras->AgregarCarrera()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 46
+[04-Aug-2023 16:09:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/pgs/admin/carreras/index.php on line 80

@@ -1,0 +1,192 @@
+[17-Aug-2023 02:04:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 7
+[17-Aug-2023 02:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 7
+[17-Aug-2023 02:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 7
+[17-Aug-2023 02:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 7
+[17-Aug-2023 02:04:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 7
+[17-Aug-2023 02:04:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 7
+[17-Aug-2023 03:08:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:08:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:08:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:08:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 10
+[17-Aug-2023 03:10:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 11
+[17-Aug-2023 03:10:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 11
+[17-Aug-2023 03:10:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 11
+[17-Aug-2023 03:10:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 11
+[17-Aug-2023 03:10:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 11
+[17-Aug-2023 03:10:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 11
+[17-Aug-2023 03:11:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:11:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:11:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:11:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:11:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setUser() on string in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 12
+[17-Aug-2023 03:25:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../PHPmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:22 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:23 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:32 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:32 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:33 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:42 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:42 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:26:42 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../../phpmailer/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:27:45 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../phpmailer/src/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:27:46 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../PHPmailer/src/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../../PHPmailer/src/phpmailer.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:247
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 247
+[17-Aug-2023 03:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 250
+[17-Aug-2023 03:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 250
+[17-Aug-2023 03:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 250
+[17-Aug-2023 03:29:40 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php8.1') in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 250
+[17-Aug-2023 04:21:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Usuario::getToken() in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:432
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 432
+[17-Aug-2023 04:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Usuario::getToken() in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:432
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 432
+[19-Aug-2023 15:57:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 70
+[20-Aug-2023 01:37:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/usuarios/curriculum/index.php on line 70

@@ -1,0 +1,927 @@
+[03-Aug-2023 13:14:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:66
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 66
+[03-Aug-2023 13:14:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 7
+[03-Aug-2023 13:14:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 7
+[03-Aug-2023 13:15:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 7
+[03-Aug-2023 13:15:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 7
+[03-Aug-2023 13:15:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 7
+[03-Aug-2023 13:15:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 7
+[03-Aug-2023 13:30:43 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:31:16 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:31:34 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:31:38 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:31:51 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:31:57 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:32:10 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:32:16 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[03-Aug-2023 13:33:48 America/New_York] PHP Fatal error:  Uncaught ValueError: PDO::prepare(): Argument #1 ($query) cannot be empty in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:67
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(67): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(15): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 67
+[09-Aug-2023 23:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[09-Aug-2023 23:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:238
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 238
+[11-Aug-2023 07:00:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function crearRespuesta() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:13
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 13
+[11-Aug-2023 07:02:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function crearRespuesta() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:13
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 13
+[11-Aug-2023 07:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function crearRespuesta() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:13
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 13
+[11-Aug-2023 07:03:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function crearRespuesta() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:13
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 13
+[11-Aug-2023 07:04:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function crearRespuesta() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:14
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 14
+[11-Aug-2023 07:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getIdUsuario() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:17
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 17
+[11-Aug-2023 07:06:42 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:06:51 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:06:53 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:08:13 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:08:14 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:09:37 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:09:38 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:11:42 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:12:36 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 167
+[11-Aug-2023 07:12:37 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 167
+[11-Aug-2023 07:12:40 America/New_York] PHP Fatal error:  Cannot use [] for reading in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 167
+[11-Aug-2023 07:12:40 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:12:41 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:13:30 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:13:32 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:13:34 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:13:35 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:13:36 America/New_York] PHP Fatal error:  Out of memory (allocated 706740224) (tried to allocate 262144 bytes) in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 176
+[11-Aug-2023 07:15:27 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:29 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:32 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[11-Aug-2023 07:15:38 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:226
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(226): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(251): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 226
+[12-Aug-2023 23:39:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:77
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 77
+[13-Aug-2023 01:47:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:77
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 77
+[13-Aug-2023 01:47:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:77
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 77
+[13-Aug-2023 04:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:79
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 79
+[13-Aug-2023 05:41:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:79
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 79
+[13-Aug-2023 05:41:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:79
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 79
+[13-Aug-2023 06:03:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:250
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(250): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(253): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 250
+[13-Aug-2023 06:03:47 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:250
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(250): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(253): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 250
+[13-Aug-2023 06:03:48 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:250
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(250): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(253): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 250
+[13-Aug-2023 23:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:79
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 79
+[15-Aug-2023 21:55:10 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Publicaciones::getFechaCreacion(), 0 passed in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 285 and exactly 1 expected in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:346
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(285): Publicaciones->getFechaCreacion()
+#1 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 346
+[15-Aug-2023 22:27:58 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "¿" in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:392
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 392
+[15-Aug-2023 23:19:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[16-Aug-2023 03:12:13 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[16-Aug-2023 03:13:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '><p>Segunda publicacion</p><a href=' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[16-Aug-2023 21:50:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:78
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 78
+[18-Aug-2023 00:10:10 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:10:23 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:10:26 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:10:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:10:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:11:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:11:52 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:13:44 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:14:17 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:14:17 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:14:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:14:19 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:14:19 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:14:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:15:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:15:35 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:15:35 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:15:41 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:15:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:16:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:16:57 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:16:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:17:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:17:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:18:14 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:18:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:18:16 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:19 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:19 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:25 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:19:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:28:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(252): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:38:52 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:39:02 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:39:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:39:40 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:39:40 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:39:41 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:52 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:51:57 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:52:02 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:52:02 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:16 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:16 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:17 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:21 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:53:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:54 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:58 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:54:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:02 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:03 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:03 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:29 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:37 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:37 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:55:38 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:04 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:05 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:06 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:07 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:21 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 00:57:35 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(257): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 02:16:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 02:17:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 02:25:48 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 02:25:51 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[18-Aug-2023 13:15:54 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:307
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(307): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 307
+[19-Aug-2023 14:19:32 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:472
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(472): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 472
+[19-Aug-2023 14:23:23 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php:472
+Stack trace:
+#0 /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php(472): PDO->prepare()
+#1 /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php(272): Publicaciones->Publicaciones()
+#2 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/includes/user/usuario.php on line 472
+[19-Aug-2023 15:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:83
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 83
+[20-Aug-2023 13:55:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:83
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 83
+[13-Sep-2023 00:41:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php:92
+Stack trace:
+#0 {main}
+  thrown in /homepages/36/d964441634/htdocs/public_html/publicaciones/publicacion.php on line 92
