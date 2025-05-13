@@ -335,7 +335,7 @@ if (isset($_SESSION['Logueado']) && $_SESSION['Logueado'] === true) {
     </footer>
     <div class="endFooter">
         <h4>5 de Mayo #321 Barrio de San Miguel, San Mateo Atenco, México.</h4>
-        <h5>Medio de contacto: contacto@behuse.com</h5>
+        <h5>Medio de contacto: contacto@gahandi.dev</h5>
     </div>
     <?php
     ini_set('log_errors', 1); // Habilita el registro de errores

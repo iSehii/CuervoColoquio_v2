@@ -405,7 +405,7 @@ y ${altoOptimo.toFixed(2)} cm de alto, considerando los márgenes de 2 cm en cad
     </footer>
     <div class="endFooter">
         <h4>5 de Mayo #321 Barrio de San Miguel, San Mateo Atenco, México.</h4>
-        <h5>Medio de contacto: contacto@behuse.com</h5>
+        <h5>Medio de contacto: contacto@gahandi.dev</h5>
     </div>
     <script>
         function inicio() {
